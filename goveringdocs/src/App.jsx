@@ -3,7 +3,7 @@ import Navbar from "./Components/Section/Navbar";
 
 function App() {
     return (
-        <main className="bg-black h-screen w-full">
+        <main className=" h-screen w-full">
             <Navbar />
             <Footer/>
         </main>
