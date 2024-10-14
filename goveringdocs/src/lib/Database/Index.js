@@ -45,3 +45,41 @@ export const ProblemCardInfo = [
         des1: "Ensure all your documents meet the latest regulatory standards.",
     },
 ];
+
+export const reviews = [
+    {
+        img: "/Img/David.png",
+        name: "David",
+        title: "Happy Clients",
+        review: {
+            starts: 4,
+            title: "Highly Recommended",
+            details:
+                "The AI features saved us countless hours and ensured our compliance was spot on.",
+        },
+    },
+    {
+        img: "/Img/JohnSmith.png",
+        name: "David",
+        title: "Happy Clients",
+        review: {
+            starts: 4,
+            title: "Highly Recommended",
+            details:
+                "The AI features saved us countless hours and ensured our compliance was spot on.",
+        },
+    },
+    {
+        img: "/Img/RonalRichard.png",
+        name: "David",
+        title: "Happy Clients",
+        review: {
+            starts: 4,
+            title: "Highly Recommended",
+            details:
+                "The AI features saved us countless hours and ensured our compliance was spot on.",
+        },
+    },
+];
+
+
