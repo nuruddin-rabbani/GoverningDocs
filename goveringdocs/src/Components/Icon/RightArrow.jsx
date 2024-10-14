@@ -1,0 +1,23 @@
+import React from 'react';
+
+function RightArrow(props) {
+  return (
+      <svg
+          width="11"
+          height="17"
+          viewBox="0 0 11 17"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+          {...props}
+      >
+          <path
+              fillRule="evenodd"
+              clipRule="evenodd"
+              d="M2.86316 16.0136L10.8189 7.9696L2.77488 0.0138666L0.785942 2.02487L6.81896 7.99167L0.852154 14.0247L2.86316 16.0136Z"
+              fill="currentColor"
+          />
+      </svg>
+  );
+}
+
+export default RightArrow

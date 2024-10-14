@@ -14,8 +14,8 @@ export default {
         "gradient-secondary": "linear-gradient(161.45deg, #00d2ff -5.54%, #9aedff 59.11%)"
       },
       fontFamily: {
-        "space-grotask": ['"Space Grotesk"', "sans - serif"],
-        "nunito-sans": ['"Nunito Sans"', "sans-serif"],
+        "space-grotask": ['"Space Grotesk"', "serif"],
+        "nunito-sans": ['"Nunito Sans"', "serif"],
       },
     },
   },

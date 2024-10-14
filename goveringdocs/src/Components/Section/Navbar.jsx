@@ -13,9 +13,9 @@ function Navbar() {
         });
     return (
         <nav className="py-5 w-full">
-            <Container className="lg:w-[1248px] mt-[20px] flex justify-between items-center px-2 sm:px-5 xl:px-[30px] py-2 sm:py-3 xl:py-5 rounded-full bg-white">
+            <Container className="mt-[20px] mx-auto flex justify-between items-center px-2 sm:px-5 xl:px-[30px] py-2 sm:py-3 xl:py-5 rounded-full bg-white">
                 <div>
-                    <Logo className="sm:text-[24px] ps-4">GoverningDocs</Logo>
+                    <Logo className="text-[28px] ps-4">GoverningDocs</Logo>
                 </div>
                 <div className="hidden lg:flex gap-4">
                     {navItems.map(({ label, link }, i) => (
